@@ -14,3 +14,11 @@ Line Plot
 Horizontal bar chart
 Violin Plot
 WORD CLOUD
+
+
+Libraries used and their definitons ...
+Matplotlib.pyplot
+matplotlib.pyplot is a collection of functions that make matplotlib work like MATLAB. Each pyplot function makes some change to a figure: e.g., creates a figure, creates a plotting area in a figure, plots some lines in a plotting area, decorates the plot with labels, etc.
+
+numpy
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
